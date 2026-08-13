@@ -12,29 +12,15 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 https://newproxy3.vidivu.tv/waptv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
-http://live.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
-http://live.adultiptv.net/milf.m3u8
 
 
 #EXTINF:-1 tvg-name="Italia 2 Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia2.it" group-title="Italy",Italia 2 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
-http://live.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
-http://live.adultiptv.net/milf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
-http://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Interracial
-http://live.adultiptv.net/interracial.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sJXB1nS7/Icon.png" group-title="Undefined",Adult Swim Home Movies (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Music",AlbKanale Music TV (1080p)
 https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
